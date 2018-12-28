@@ -1,0 +1,19 @@
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\bin\Debug\WBrowser.exe
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\bin\Debug\WBrowser.pdb
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.About.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.Calendar.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.Close.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.Open.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.exe
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.pdb
+C:\Users\ADMIN\Desktop\WBrowser - Copy\Backup\WBrowser\obj\Debug\WBrowser.exe
+C:\Users\ADMIN\Desktop\WBrowser - Copy\Backup\WBrowser\obj\Debug\WBrowser.pdb
+C:\Users\ADMIN\Desktop\WBrowser\Backup\WBrowser\obj\Debug\WBrowser.csprojResolveAssemblyReference.cache
